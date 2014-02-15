@@ -3,24 +3,9 @@
 #include <math.h>
 
 
-int fibonacci (int anterior, int atual){
-	if (atual==0){
-		return 0;
-	}
-	if (atual==1){
-
-}
-
-
-
-}
 
 
 main (){
-
-	
-
-
-
-
-}
+  puts ("This is a simple test");
+  
+  }
